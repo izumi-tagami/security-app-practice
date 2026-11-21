@@ -25,3 +25,4 @@ http://localhost/contact　へアクセスしフォームに入力・送信完�
 
 ## 開発の工夫
 フォームが未入力だった時は日本語のエラーメッセージが出るようにコントローラーへ追記した。
+<img width="1007" height="615" alt="スクリーンショット 2026-11-21 145711" src="https://github.com/user-attachments/assets/05521b93-df12-404c-bcd3-b11a6186cde3" />
